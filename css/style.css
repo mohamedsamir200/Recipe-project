@@ -1,0 +1,12 @@
+.recepts-img {
+    height: 200px;
+}
+header{
+    background-image: url(../post-1.jpg);
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+}
+.navbar .nav-link {
+    cursor: pointer;
+}
